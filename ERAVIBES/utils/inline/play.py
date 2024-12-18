@@ -69,14 +69,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="•ᴜᴘᴅᴧᴛᴇ•",
 
-                url=f"t.me/ur_rishu_143",
+                url=f"t.me/GODCHEATTELEGRAM",
 
             ),
             InlineKeyboardButton(
 
                 text="•sᴜᴘᴘᴏꝛᴛ• ",
 
-                url=f"t.me/ur_support07",
+                url=f"t.me/GODCHEATFAMILY",
 
             ),
         ],
@@ -98,14 +98,14 @@ def stream_markup(_, chat_id):
 
                 text="•ᴜᴘᴅᴧᴛᴇ•",
 
-                url=f"t.me/ur_rishu_143",
+                url=f"t.me/GODCHEATTELEGRAM",
 
             ),
             InlineKeyboardButton(
 
                 text="•sᴜᴘᴘᴏꝛᴛ•",
 
-                url=f"t.me/ur_support07",
+                url=f"t.me/GODCHEATFAMILY",
 
             ),
         ],
