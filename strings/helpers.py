@@ -7,10 +7,10 @@ HELP_1 = """<b><blockquote>❖ ᴍᴜsɪᴄ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs</bloc
 ❍ /player ➥ ɢᴇᴛ ᴀ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ᴩʟᴀʏᴇʀ ᴩᴀɴᴇʟ.
 ❍ /queue ➥ sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ <a href=https://t.me/Rishu_MusicBot>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a></b>
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ <a href=https://t.me/GODCHEATTELEGRAM>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a></b>
 """
 
 HELP_2 = """
-<b><blockquote>❖ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ʀɪsʜᴜ-ᴍᴜsɪᴄ ʙᴏᴛ</blockquote>\n\n➻ <a href=https://t.me/Rishu_MusicBot>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a> ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ\n\n๏ ᴡʜʏ  <a href=https://t.me/Rishu_MusicBot>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a> ɪs ʙᴇsᴛ ?\n\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n➻ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ\n➻ ᴍᴜsɪᴄ ʙᴏᴛ ғᴇᴀᴛᴜʀᴇs\n➻ ɴᴏ ʏᴛ ɪᴘ ʙʟᴏᴄᴋ ɪssᴜᴇ\n➻ ɴᴏ ᴘꝛᴏᴍᴏᴛɪᴏɴᴧʟ ᴧᴅs \n➻ ꝛᴇ-ᴇᴅɪᴛᴇᴅ ᴄᴏꝛᴇ | ʜɪɢʜʟʏ ᴏᴘᴛɪᴍɪsᴇ\n➻ ɴᴏ ʟᴧɢ ᴀɴᴅ ᴅᴏᴡɴ-ᴛɪᴍᴇ\n➻ ᴍᴀɴʏ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs........\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n\nᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ\n\n❖  <a href=https://t.me/ur_rishu_143>ᴄʜᴀɴɴᴇʟ</a> |×|  <a href=https://t.me/Ur_support07>ɢʀᴏᴜᴘ</a></b>
+<b><blockquote>❖ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ʀɪsʜᴜ-ᴍᴜsɪᴄ ʙᴏᴛ</blockquote>\n\n➻ <a href=https://t.me/KHUSHII_MUSIC_BOT>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a> ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ\n\n๏ ᴡʜʏ  <a href=https://t.me/KHUSHII_MUSIC_BOT>ʀɪsʜᴜ-ᴍᴜsɪᴄ</a> ɪs ʙᴇsᴛ ?\n\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n➻ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ\n➻ ᴍᴜsɪᴄ ʙᴏᴛ ғᴇᴀᴛᴜʀᴇs\n➻ ɴᴏ ʏᴛ ɪᴘ ʙʟᴏᴄᴋ ɪssᴜᴇ\n➻ ɴᴏ ᴘꝛᴏᴍᴏᴛɪᴏɴᴧʟ ᴧᴅs \n➻ ꝛᴇ-ᴇᴅɪᴛᴇᴅ ᴄᴏꝛᴇ | ʜɪɢʜʟʏ ᴏᴘᴛɪᴍɪsᴇ\n➻ ɴᴏ ʟᴧɢ ᴀɴᴅ ᴅᴏᴡɴ-ᴛɪᴍᴇ\n➻ ᴍᴀɴʏ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs........\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n\nᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ\n\n❖  <a href=https://t.me/GODCHEATTELEGRAM>ᴄʜᴀɴɴᴇʟ</a> |×|  <a href=https://t.me/GODCHEATFAMILY>ɢʀᴏᴜᴘ</a></b>
 """
 
